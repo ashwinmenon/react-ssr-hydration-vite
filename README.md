@@ -46,15 +46,16 @@ How to test SSR by disabling JavaScript and inspecting server-rendered HTML
 
 ```bash
 npm install
-2. Build both client and SSR
-bash
-Copy
-Edit
+```
+
+### 2. Build both client and SSR
+```bash
 npm run build
-3. Start the Express server
-bash
-Copy
-Edit
+npm run build-ssr
+```
+
+### 3. Start the Express server
+```bash
 npm run serve
 Navigate to http://localhost:3000
 ```
