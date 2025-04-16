@@ -2,6 +2,15 @@
 
 This project demonstrates **Server-Side Rendering (SSR)** with **React**, using **Vite** for bundling and **Express** as the backend server. It includes **hydration** on the client side to add interactivity post initial server render.
 
+### 🧠 What you'll learn:
+How to build and serve a React SSR app using Vite and Express
+
+How to use hydrateRoot for seamless client-side interactivity
+
+How to handle image loading, lazy hydration, and conditional rendering on the client
+
+How to test SSR by disabling JavaScript and inspecting server-rendered HTML
+
 ---
 
 ## 🔧 Tech Stack
@@ -89,12 +98,12 @@ To **verify that Server-Side Rendering is working correctly**, follow these step
 
 
 
-🌐 Useful Links
-React Hydration Docs: https://18.react.dev/reference/react-dom/client/hydrateRoot
+### 🌐 Useful Links
+ - React Hydration Docs: https://18.react.dev/reference/react-dom/client/hydrateRoot
 
-Vite SSR Guide: https://vite.dev/guide/ssr
+ - Vite SSR Guide: https://vite.dev/guide/ssr
 
 
-📢 Author
-Built with ❤️ by [Ashwin R](https://www.linkedin.com/in/ashwin-r-menon/)
-Drop a ⭐ if this helped you!
+### 📢 Author
+ - Built with ❤️ by [Ashwin R](https://www.linkedin.com/in/ashwin-r-menon/)
+ - Drop a ⭐ if this helped you!
